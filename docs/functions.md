@@ -1,4 +1,4 @@
-# Webservice-Funktionen
+﻿# Webservice-Funktionen
 
 Diese Referenz umfasst alle öffentlichen ASMX-Webmethoden des Webservices.
 Sie wird aus den Methodenverträgen erzeugt. Die Gruppierung folgt den elf Endpunkten.
