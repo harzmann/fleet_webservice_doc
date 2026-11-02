@@ -1,4 +1,4 @@
-# Downloads
+﻿# Downloads
 
 ## Skripte für IIS
 
@@ -22,13 +22,13 @@ Get-FileHash .\FLEET-Webservice-IIS-Skripte.zip -Algorithm SHA256
 
 Siehe [Neuinstallation](installation.md) und [Update](update.md).
 
-Erwartete SHA256 des Skriptpakets: `4feb6144245b54fc9ab86bdea262432a5a2533db0a1abfd18de0c444ed2f2a76`.
+Erwartete SHA256 des Skriptpakets: `d10f6814604a4ea5e39bf348eeb92087c5e112a45b22dc5edfec796164501372`.
 
 Dokumentierter Assembly-Stand: **1.3.11.0**. Umfang: **103 Webmethoden**.
 
 ## Aktuelles Kundenpaket
 
-[Installationspaket 1.3.10.0](assets/downloads/EHFleet_Webservice_1.3.10.0_3136260d_Installation.zip) · [SHA256](assets/downloads/EHFleet_Webservice_1.3.10.0_3136260d_Installation.zip.sha256)
+[Installationspaket 1.3.11.0](assets/downloads/EHFleet_Webservice_1.3.11.0_d39c500a_Installation.zip) · [SHA256](assets/downloads/EHFleet_Webservice_1.3.11.0_d39c500a_Installation.zip.sha256)
 
 Enthält Web-Deploy-Paket, Neuinstallations-/Updateskripte und Anleitung.
 
