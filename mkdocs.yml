@@ -1,0 +1,22 @@
+site_name: FLEET Webservice Kundenportal
+site_url: https://harzmann.github.io/fleet_webservice_doc/
+repo_url: https://github.com/harzmann/fleet_webservice_doc
+theme:
+  name: material
+  language: de
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+nav:
+  - Start: index.md
+  - Webservice-Funktionen: functions.md
+  - Installation: installation.md
+  - Update: update.md
+  - Downloads: download.md
+  - Änderungen: changelog.md
+copyright: Copyright eh-systemhaus 2026
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
