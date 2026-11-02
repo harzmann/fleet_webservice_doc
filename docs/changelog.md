@@ -19,6 +19,8 @@ Das Format orientiert sich an Keep a Changelog. Die Versionierung folgt der vorh
 
 ### Geändert
 
+- Release-Pakete schließen Quell-, Projekt-, Publish- und Debugdateien auch im Binärordner explizit aus; kompilierte SQL-Konfigurationsseiten kopieren ihren VB-Quellcode nicht mehr in den Ausgabeordner. Dies behebt den Abbruch der Kundenpaketerstellung im produktiven Deployment.
+- Die Kundenpaketprüfung akzeptiert den versionierten Platzhalter `{{SQL_PASSWORD}}`, während echte Passwortwerte weiterhin abgelehnt werden.
 - Werkstattaufträge schreiben nicht verwendete `KFZNr`-/`KundenNr`-Referenzen jetzt als Datenbank-`NULL`; Fahrzeug- und Kundenaufträge bleiben gegenseitig exklusiv.
 - README und Änderungsprotokoll wurden auf deutsche Sprache mit Umlauten umgestellt.
 - Der Deployment-Workflow veröffentlicht die Kundendokumentation zusätzlich zum bestehenden IIS-Deployment.
