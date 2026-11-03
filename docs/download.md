@@ -22,7 +22,7 @@ Get-FileHash .\FLEET-Webservice-IIS-Skripte.zip -Algorithm SHA256
 
 Siehe [Neuinstallation](installation.md) und [Update](update.md).
 
-Erwartete SHA256 des Skriptpakets: `d10f6814604a4ea5e39bf348eeb92087c5e112a45b22dc5edfec796164501372`.
+Erwartete SHA256 des Skriptpakets: `7e0cc2a19270b4f08b9692b74e9e5ff4759ce29c881e089eeb8d7c037ae44bc1`.
 
 Dokumentierter Assembly-Stand: **1.3.11.0**. Umfang: **103 Webmethoden**.
 

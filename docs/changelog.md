@@ -6,6 +6,8 @@ Das Format orientiert sich an Keep a Changelog. Die Versionierung folgt der vorh
 
 ## [Unveröffentlicht]
 
+- Einheitliche Fleet-Mira-Bildvergrößerung im Kundenportal; Stylesheet und JavaScript werden aus den Vorlagen mitveröffentlicht.
+
 ## [1.3.11.0] - 2026-11-02
 
 ### Hinzugefügt
