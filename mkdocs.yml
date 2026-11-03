@@ -4,10 +4,17 @@ repo_url: https://github.com/harzmann/fleet_webservice_doc
 theme:
   name: material
   language: de
+  font: false
+  palette:
+    scheme: default
+    primary: blue
+    accent: blue
   features:
     - navigation.sections
     - navigation.top
     - search.highlight
+    - search.suggest
+    - content.code.copy
 nav:
   - Start: index.md
   - Webservice-Funktionen: functions.md
@@ -22,6 +29,7 @@ markdown_extensions:
       permalink: true
 
 extra_css:
+  - stylesheets/fleet-mira-theme.css
   - stylesheets/image-lightbox.css
 
 extra_javascript:
